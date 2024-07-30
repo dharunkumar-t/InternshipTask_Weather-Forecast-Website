@@ -22,7 +22,7 @@ To run this project locally, follow these steps:
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/yourusername/weather-forecast-website.git
+    git clone [https://github.com/dharunkumar-t/InternshipTask_Weather-Forecast-Website.git]
     cd weather-forecast-website
     ```
 
